@@ -1,86 +1,63 @@
-# ♟️ Chess Engine & Motion Showcase
-
 <div align="center">
 
-  <!-- Badges -->
-  <img src="https://img.shields.io/badge/C%2B%2B-20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++20" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
-  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects" />
-  <img src="https://img.shields.io/badge/CI%2FCD-Passing-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" />
+  # Hi, I'm Christian 👋
+  
+  **Software Developer & Motion Designer**
 
-  <p href="https://github.com/bigpython0">
-    <strong>Eine hochperformante C++ Schach-Engine mit visualisierter Algorithmen-Logik.</strong>
+  <p>
+    Ich verbinde saubere Softwarearchitektur mit Motion Design,<br />
+    um leistungsstarke und visuell überzeugende Anwendungen zu entwickeln.
   </p>
+
+  <!-- Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" alt="After Effects" />
+    <img src="https://img.shields.io/badge/CI%2FCD-Actions-blue?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+  </p>
+
+  <br />
+
+  <!-- 🎨 ZENTRALES VISUAL / GIF SHOWCASE -->
+  <img src="docs/assets/profile-banner.gif" alt="Showcase Reel" width="85%" />
+  
+  <p><sub><i>Visueller Einblick in Algorithmen-Visualisierungen & UI-Motion Demos</i></sub></p>
 
 </div>
 
 ---
 
-## 🎬 Visual Showcase (Motion & UI)
+### 🚀 Featured Projects
 
-<!-- HAUPT-SHOWCASE: Großes GIF / Video-Demo -->
-<div align="center">
-  <img src="docs/assets/main-demo.gif" alt="Schachspiel Gameplay & Visuals" width="100%" />
-  <p><em>Haupt-Demo: Gameplay-Flow, Smooth Cursor Tracking und Bewegungsvisualisierung.</em></p>
-</div>
-
-<br />
-
-<!-- GRID SHOWCASE: Zweispaltiges Layout für Detail-GIFs -->
 <table border="0" width="100%">
   <tr>
-    <td width="50%" align="center">
-      <img src="docs/assets/feature-minimax.gif" alt="Minimax Visualisierung" width="100%" />
-      <br />
-      <b>Visualisierung: Alpha-Beta Pruning</b>
-      <p><small>Animierter Decision-Tree für Suchtiefe & Rechenschritte.</small></p>
+    <td width="50%" valign="top">
+      <h3>♟️ <a href="https://github.com/bigpython0/Chess">Chess Engine</a></h3>
+      <p>Performante C++ Schach-Engine mit Minimax-Algorithmus und animierten Visualisierungs-Overlays.</p>
+      <p><code>C++20</code> &bull; <code>CMake</code> &bull; <code>After Effects</code></p>
     </td>
-    <td width="50%" align="center">
-      <img src="docs/assets/feature-ui.gif" alt="UI Interaktionen" width="100%" />
-      <br />
-      <b>UI & Micro-Interactions</b>
-      <p><small>Mit AE aufbereitete Highlights für Zugoptionen & Bedrohungszonen.</small></p>
+    <td width="50%" valign="top">
+      <h3>🏦 <a href="https://github.com/bigpython0/BankingSystem">Banking System</a></h3>
+      <p>Objektorientierter Bankingservice mit Authentifizierung, Dateiverwaltung und sauberem GUI-Layout.</p>
+      <p><code>Java</code> &bull; <code>Swing</code> &bull; <code>OOP</code></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## ✨ Features & Highlights
+<div align="center">
 
-- **⚡ High-Performance Core:** Effiziente Spielfelddarstellung und Zugberechnung (Bitboards).
-- **🎨 Motion-Enhanced Visuals:** Visualisierte Algorithmen und flüssige Interaktions-Overlays.
-- **🛡️ Defensive Programming:** Abgesicherte Logik gegen seltene Ausnahmezustände (Patt, Rochade-Regeln).
-- **🧪 Automatisierte Tests:** Vollständige Testabdeckung wichtiger Spielregeln via Unit-Tests.
+  ### 🛠️ Tech Stack & Skills
 
----
+  <code>C++</code> &bull; <code>Java</code> &bull; <code>Python</code> &bull; <code>Git</code> &bull; <code>CI/CD Pipelines</code> &bull; <code>Adobe After Effects</code> &bull; <code>UI/UX Motion</code>
 
-## 🛠️ Tech Stack & Tools
+  <br />
 
-- **Sprache & Build-System:** `C++20`, `CMake`
-- **Testing:** `GoogleTest` / `Catch2`
-- **Motion & Asset Pipeline:** `Adobe After Effects` (Motion Design, Highlighting, GIF/WebM Export)
-- **CI/CD:** `GitHub Actions`
+  ### 📫 Connect
 
----
+  [LinkedIn](#) &bull; [Portfolio](#) &bull; [Email](mailto:deine-email@example.com)
 
-## 🚀 Quick Start
-
-### Voraussetzungen
-- C++20 kompatibler Compiler (GCC/Clang/MSVC)
-- CMake ≥ 3.16
-
-### Installation & Ausführen
-```bash
-# 1. Repository klonen
-git clone [https://github.com/bigpython0/Chess.git](https://github.com/bigpython0/Chess.git)
-cd Chess
-
-# 2. Build-Ordner erstellen & kompilieren
-mkdir build && cd build
-cmake ..
-make -j4
-
-# 3. Spiel starten
-./ChessApp
+</div>
