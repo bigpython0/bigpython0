@@ -58,9 +58,6 @@
 
   ### 📫 Connect
 
-  [LinkedIn](www.linkedin.com/in/
-christianBrost
-Name der persönlichen URL
-) &bull; [Portfolio](#) &bull; [Email](mailto:deine-email@example.com)
+  [LinkedIn](www.linkedin.com/in/christianBrost) &bull; [Portfolio](#) &bull; [Email](mailto:deine-email@example.com)
 
 </div>
