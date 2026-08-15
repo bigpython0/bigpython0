@@ -35,7 +35,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>♟️ <a href="https://github.com/bigpython0/Chess">Chess Engine</a></h3>
-      <p>Performante C++ Schach-Engine mit Minimax-Algorithmus und animierten Visualisierungs-Overlays.</p>
+      <p>Visuell optimiertes Schach-Spiel mit vollständig implementierter Logik</p>
       <p><code>C++20</code> &bull; <code>CMake</code> &bull; <code>After Effects</code></p>
     </td>
     <td width="50%" valign="top">
