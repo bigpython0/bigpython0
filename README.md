@@ -36,12 +36,12 @@
     <td width="50%" valign="top">
       <h3>♟️ <a href="https://github.com/bigpython0/Chess">Chess Engine</a></h3>
       <p>Visuell optimiertes Schach-Spiel mit vollständig implementierter Logik</p>
-      <p><code>C++20</code> &bull; <code>CMake</code> &bull; <code>After Effects</code></p>
+      <p><code>C++20</code> &bull;
     </td>
     <td width="50%" valign="top">
       <h3>🏦 <a href="https://github.com/bigpython0/BankingSystem">Banking System</a></h3>
       <p>Objektorientierter Bankingservice mit Authentifizierung, Dateiverwaltung und sauberem GUI-Layout.</p>
-      <p><code>Java</code> &bull; <code>Swing</code> &bull; <code>OOP</code></p>
+      <p><code>Java</code> &bull; &bull; <code>OOP</code></p>
     </td>
   </tr>
 </table>
