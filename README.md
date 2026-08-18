@@ -48,7 +48,7 @@
 
   ### 🛠️ Tech Stack & Skills
 
-  <code>C++</code> &bull; <code>Java</code> &bull; <code>Python</code> &bull; <code>Git</code> &bull; <code>CI/CD Pipelines</code> &bull; <code>Adobe After Effects</code> &bull; <code>UI/UX Motion</code>
+  <code>C</code> &bull; <code>Haskell</code> &bull; <code>C++</code> &bull; <code>Java</code> &bull; <code>Python</code> &bull; <code>Git</code> &bull; <code>Adobe After Effects</code> 
 
   <br />
 
