@@ -6,7 +6,7 @@
 
   <p>
     Ich bin ein ehrgeiziger Informatikstudent an der Universität Leipzig mit Interesse an Videobearbeitung und AI-Development<br />
-    - B.Sc. Informatik (seit Oktober 2025)
+    - B.Sc. Informatik (seit Oktober 2025) <br />
     - Leipzig, Sachsen
   </p>
 
