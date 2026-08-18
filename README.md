@@ -5,19 +5,13 @@
   **Software Developer & Motion Designer**
 
   <p>
-    Ich bin ein ehrgeiziger Informatikstudent an der Universität Leipzig mit Interesse an Videobearbeitung und AI-Development<br />
-    - 🎓 B.Sc. Informatik (seit Oktober 2025)
-    - 📍 Leipzig, Sachsen
+    Ich bin ein ehrgeiziger Informatikstudent an der Universität Leipzig mit Interesse an Videobearbeitung und AI-Development.
   </p>
 
-  <!-- Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" alt="After Effects" />
-  </p>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>🎓 B.Sc. Informatik (seit Oktober 2025)</li>
+    <li>📍 Leipzig, Sachsen</li>
+  </ul>
 
   <br />
 
@@ -31,8 +25,8 @@
   <tr>
     <td width="50%" valign="top">
       <h3>♟️ <a href="https://github.com/bigpython0/Chess">Chess Engine</a></h3>
-      <p>Visuell optimiertes Schach-Spiel mit vollständig implementierter Logik</p>
-      <p><code>C++20</code> &bull;
+      <p>Visuell optimiertes Schach-Spiel mit vollständig implementierter Logik.</p>
+      <p><code>C++20</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>🏦 <a href="https://github.com/bigpython0/BankingSystem">Banking System</a></h3>
@@ -54,6 +48,6 @@
 
   ### 📫 Connect
 
-  [LinkedIn](www.linkedin.com/in/christianBrost) &bull; [Portfolio](#) &bull; [Email](mailto:deine-email@example.com)
+  [LinkedIn](https://www.linkedin.com/in/christianBrost) &bull; [Portfolio](#) &bull; [Email](mailto:deine-email@example.com)
 
 </div>
